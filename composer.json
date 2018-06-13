@@ -1,0 +1,14 @@
+{
+    "name": "aposudevsky/templates",
+    "description": "CKEditor content templates plugin put into composer package",
+    "keywords": ["CKEditor", "templates", "content"],
+    "type": "library",
+	"time": "2018-06-13",
+    "license": "MIT",
+    "authors": [{
+        "name": "Andrey Posudevsky", 
+        "email": "aposudevsky@gmail.com"
+    }],
+    "version": "1.0.0",
+    "minimum-stability": "dev"
+}
