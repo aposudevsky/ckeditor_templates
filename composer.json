@@ -2,7 +2,7 @@
     "name": "aposudevsky/templates",
     "description": "CKEditor content templates plugin put into composer package",
     "keywords": ["CKEditor", "templates", "content"],
-    "type": "library",
+    "type": "drupal-library",
 	"time": "2018-06-13",
     "license": "MIT",
 	"dist": {
