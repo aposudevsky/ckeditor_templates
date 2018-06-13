@@ -5,6 +5,10 @@
     "type": "library",
 	"time": "2018-06-13",
     "license": "MIT",
+	"dist": {
+        "url": "https://github.com/aposudevsky/ckeditor_templates/archive/1.0.0.zip",
+        "type": "zip"
+    },
     "authors": [{
         "name": "Andrey Posudevsky", 
         "email": "aposudevsky@gmail.com"
